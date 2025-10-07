@@ -1,2 +1,3 @@
-# kisanportal
-Informative hub for Indian farmers — covering PM Kisan, PMFBY, Soil Health Card, and more.
+# Kisan Portal Hub
+An educational resource about Indian agriculture schemes — PM Kisan, PMFBY, Soil Health Card, and more.
+Visit: [KisanPortal.org](https://kisanportal.org)
