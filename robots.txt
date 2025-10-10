@@ -1,0 +1,23 @@
+# robots.txt for Kisan Portal (GitHub Pages version)
+# Author: Dr. Shahid Islam
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://drshahidislam.github.io/kisanportal/sitemap.xml
+
+# Important: These are your canonical backlinks
+# Encourage indexing of both English and Hindi pages
+Allow: /index.html
+Allow: /index-hi.html
+
+# Block any unwanted GitHub-related pages (for cleaner indexing)
+Disallow: /README.md
+Disallow: /LICENSE
+Disallow: /*.md$
+Disallow: /*.yml$
+Disallow: /*.json$
+Disallow: /*.txt$
+
+# End of file
